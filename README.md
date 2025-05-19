@@ -103,9 +103,9 @@ Katkıda bulunmak isterseniz:
 
 ---
 
-## 📽️ Demo (Opsiyonel)
+## 📽️ Demo
 
-> Buraya ekran kaydı veya proje videosu eklenebilir.
+https://github.com/user-attachments/assets/7996154f-6f19-4320-8381-27ebdbeebba7
 
 ---
 
