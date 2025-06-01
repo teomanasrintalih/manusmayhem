@@ -115,7 +115,4 @@ https://github.com/user-attachments/assets/7996154f-6f19-4320-8381-27ebdbeebba7
 - Parmak verileri için threshold değerleri dinamik olarak değiştirilebilir.
 - Gelecekte el modellemesi ve fiziksel animasyonlar eklenebilir.
 
----
-
-Hazırsan, **Manus Mayhem**'de ellerinle dünyayı kontrol etmeye başla! 🔥
 
